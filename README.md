@@ -1,2 +1,1 @@
-# ARIMA-with-R
-Time series analysis forecasting using R
+#Time series analysis forecasting using ARIMA-with-R
